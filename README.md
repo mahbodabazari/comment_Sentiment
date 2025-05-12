@@ -1,6 +1,5 @@
 # تحلیل احساس کاربران با استفاده از یادگیری عمیق
 
-## توضیحات (فارسی)
 
 این پروژه یک سیستم طبقه‌بندی نظرات کاربران است که با استفاده از یادگیری عمیق و کتابخانه PyTorch پیاده‌سازی شده است. هدف این پروژه تحلیل مثبت یا منفی بودن نظرات کاربران در مورد غذا است.
 
@@ -15,7 +14,6 @@
 
 # Sentiment Analysis of User Reviews Using Deep Learning
 
-## Description (English)
 
 This project is a user review classification system implemented using deep learning with PyTorch. The goal is to analyze whether users' opinions about food are positive or negative.
 
